@@ -1,0 +1,25 @@
+#header {
+    font-size: 56px;
+}
+
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ol {
+    list-style-position: inside;
+}
+
+#list li {
+    margin-bottom: 16px;
+}
+
+a {
+    color: rgb(61, 69, 78);
+}
